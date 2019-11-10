@@ -1,5 +1,6 @@
 # Algorithms, Part II by Princeton University
- 
+
+## Week 1:
 - Underected graphs:
     - Task 1: Nonrecursive depth-first search. Implement depth-first search in an undirected graph without using recursion.
         - Hint 1: use an explicit stack.
